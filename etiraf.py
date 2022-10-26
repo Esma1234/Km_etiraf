@@ -49,9 +49,9 @@ async def start(event):
                       [
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('✅ Rəsmi', f'https://t.me/{support}'),
-                       Button.url('🙇🏻 Sahib', f'https://t.me/{sahib}')]
+                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/etiraf_ifsha}')],
+                      [Button.url('✅ Rəsmi', f'https://t.me/KMmafiaa'),
+                       Button.url('🙇🏻 Sahib', f'https://t.me/Saxtasizzzzzz')]
                     ),
                     link_preview=False)
 
@@ -68,9 +68,9 @@ async def handler(event):
                       [
                        Button.inline("💌 Etiraf Yaz", data="etiraf")
                       ],
-                      [Button.url('📜 Etiraf Kanalı', f'https://t.me/{kanal}')],
-                      [Button.url('✅ Rəsmi', f'https://t.me/{support}'),
-                       Button.url('🙇🏻 Sahib', f'https://t.me/{sahib}')]
+                      [Button.url('📜 Etiraf Kanalı', f ' https://t.me/etiraf_ifsha)],
+                      [Button.url('✅ Rəsmi', f'https://t.me/KMmafiaa'),
+                       Button.url('🙇🏻 Sahib', f'https://Saxtasizzzzzz')]
                     ),
                     link_preview=False)
 
